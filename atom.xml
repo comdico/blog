@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Peregrinations]]></title>
+  <link href="http://comdico.github.io/blog/atom.xml" rel="self"/>
+  <link href="http://comdico.github.io/blog/"/>
+  <updated>2014-05-28T21:35:48-04:00</updated>
+  <id>http://comdico.github.io/blog/</id>
+  <author>
+    <name><![CDATA[David Comdico]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

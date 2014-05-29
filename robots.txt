@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://comdico.github.io/blog/sitemap.xml 
